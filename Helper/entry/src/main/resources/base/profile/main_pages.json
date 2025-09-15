@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/WeatherPage",
+    "pages/WeatherYuBaoPage",
+    "pages/WeatherLogin",
+    "pages/Weather2Page",
+    "moudel/ServerResponseDateType",
+    "pages/WeatherRegisterPage"
+  ]
+}
