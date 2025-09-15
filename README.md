@@ -8,10 +8,10 @@
 <img src="./演示图片/Screenshot_2025-08-07T193238.png" width="300" alt="截图2">
 <img src="./演示图片/Screenshot_2025-08-07T194257.png" width="300" alt="截图3">
 <img src="./演示图片/Screenshot_2025-08-07T194303.png" width="300" alt="截图4">
-<img src="./演示图片/Screenshot_2025-08-07T194641.png" width="300" alt="截图5">
 <img src="./演示图片/Screenshot_2025-08-07T195116.png" width="300" alt="截图6">
 <img src="./演示图片/Screenshot_2025-08-07T195121.png" width="300" alt="截图7">
 <img src="./演示图片/Screenshot_2025-08-07T195128.png" width="300" alt="截图8">
+
 ## 功能特性
 
 ### 1. 用户管理
