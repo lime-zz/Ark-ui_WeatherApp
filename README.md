@@ -2,6 +2,17 @@
 
 这是一个基于HarmonyOS开发的天气应用，提供用户登录注册、城市选择、天气查询等功能。
 
+## 功能展示（部分）
+以下是应用各功能模块的界面展示：
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T193222.png" width="300" alt="截图1">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T193238.png" width="300" alt="截图2">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T194257.png" width="300" alt="截图3">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T194303.png" width="300" alt="截图4">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T194641.png" width="300" alt="截图5">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T195116.png" width="300" alt="截图6">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T195121.png" width="300" alt="截图7">
+<img src="./效果展示(图片版)/Screenshot_2025-08-07T195128.png" width="300" alt="截图8">
+
 ## 功能特性
 
 ### 1. 用户管理
@@ -181,4 +192,4 @@ Helper2/
 
 ## 许可证
 
-本项目仅供学习和演示使用。 
+本项目仅供学习和演示使用。
